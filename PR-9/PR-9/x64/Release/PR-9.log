@@ -1,0 +1,8 @@
+﻿  PR-9.cpp
+C:\Users\eliza\source\repos\PR-9\PR-9\PR-9.cpp(48,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eliza\source\repos\PR-9\PR-9\PR-9.cpp(184,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 259 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  PR-9.vcxproj -> C:\Users\eliza\source\repos\PR-9\x64\Release\PR-9.exe

@@ -1,0 +1,8 @@
+﻿  ATDvector.cpp
+C:\Users\eliza\source\repos\PR-3\PR-3.3\ATDvector.cpp(25,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eliza\source\repos\PR-3\PR-3.3\ATDvector.cpp(85,9): warning C4804: *=: небезопасное использование типа "bool" в операции
+C:\Users\eliza\source\repos\PR-3\PR-3.3\ATDvector.cpp(90,9): warning C4804: *=: небезопасное использование типа "bool" в операции
+  PR-3.3.cpp
+C:\Users\eliza\source\repos\PR-3\PR-3.3\PR-3.3.cpp(95,41): warning C4804: *=: небезопасное использование типа "bool" в операции
+  Создание кода...
+  PR-3.3.vcxproj -> C:\Users\eliza\source\repos\PR-3\x64\Debug\PR-3.3.exe

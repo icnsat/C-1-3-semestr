@@ -1,0 +1,5 @@
+﻿  ATDdinArray.cpp
+C:\Users\eliza\source\repos\PR-3\PR-3.2\ATDdinArray.cpp(26,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PR-3.2.cpp
+  Создание кода...
+  PR-3.2.vcxproj -> C:\Users\eliza\source\repos\PR-3\x64\Debug\PR-3.2.exe

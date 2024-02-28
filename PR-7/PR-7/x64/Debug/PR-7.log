@@ -1,0 +1,5 @@
+﻿  PR-7.cpp
+C:\Users\eliza\source\repos\PR-7\PR-7\PR-7.cpp(67,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eliza\source\repos\PR-7\PR-7\PR-7.cpp(76,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eliza\source\repos\PR-7\PR-7\PR-7.cpp(101,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PR-7.vcxproj -> C:\Users\eliza\source\repos\PR-7\x64\Debug\PR-7.exe

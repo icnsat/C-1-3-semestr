@@ -1,0 +1,3 @@
+﻿  deletethis.cpp
+C:\Users\eliza\source\repos\deletethis\deletethis\deletethis.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  deletethis.vcxproj -> C:\Users\eliza\source\repos\deletethis\x64\Debug\deletethis.exe

@@ -1,0 +1,7 @@
+﻿  4 дз.cpp
+C:\Users\eliza\source\repos\4 дз\4 дз\4 дз.cpp(1400,42): warning C4305: +=: усечение из "double" в "float"
+C:\Users\eliza\source\repos\4 дз\4 дз\4 дз.cpp(1402,44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\eliza\source\repos\4 дз\4 дз\4 дз.cpp(1402,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\eliza\source\repos\4 дз\4 дз\4 дз.cpp(1403,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\eliza\source\repos\4 дз\4 дз\4 дз.cpp(1403,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  4 дз.vcxproj -> C:\Users\eliza\source\repos\4 дз\x64\Debug\4 дз.exe

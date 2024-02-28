@@ -1,0 +1,3 @@
+﻿  PR-6.cpp
+C:\Users\eliza\source\repos\PR-6\PR-6\PR-6.cpp(17): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  PR-6.vcxproj -> C:\Users\eliza\source\repos\PR-6\x64\Debug\PR-6.exe

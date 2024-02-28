@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (PR-2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ATDdinArray.cpp
+  PR-2.1.cpp
+  Создание кода...
+  PR-2.vcxproj -> C:\Users\eliza\source\repos\PR-2\x64\Debug\PR-2.1.exe
